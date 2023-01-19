@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zayneb Chniba</h1>
 <h3 align="center">I'm a Junior Data Scientist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeinebch3&label=Profile%20views&color=0e75b6&style=flat" alt="zeinebch3" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🔭 I’m currently Learning **Machine Learning, Deep learning ,NLP, Computer vision**
